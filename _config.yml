@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lawrence Balitaan"
 title_separator          : "-"
 name                     : &name "Lawrence Balitaan"
-description              : &description "Cetacean Research Data Analyst"
+description              : &description "Marine Mammal Research Data Analyst"
 url                      : https://lhbalitaan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lawrence Balitaan"
   avatar           : "git_pic.jpg"
-  bio              : "Cetacean Research Data Analyst"
+  bio              : "Marine Mammal Research Data Analyst"
   location         : "San Diego, CA"
   university       : "UC San Diego"
   employer         : "http://baumann.ucsd.edu/"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lhbalitaan"
+  github           : #"lhbalitaan"
   google_plus      :
   keybase          :
   instagram        :
