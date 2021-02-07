@@ -4,13 +4,16 @@ title: Research
 permalink: /research/
 author_profile: true
 ---
-# Cetacean Ecology
-## [Scripps Acoustic Ecology Lab](https://sael.ucsd.edu)
+# Active Research Projects
+
+## Cetacean Ecology
+### [Scripps Acoustic Ecology Lab](https://sael.ucsd.edu)
 Coming Soon!
 
 
-# Biophysical Interactions
-## [CCE LTER REU](https://cce.lternet.edu/education/opportunities/reu)
+# Past Research Projects
+## Biophysical Interactions
+### [CCE LTER REU](https://cce.lternet.edu/education/opportunities/reu)
 
 ![Figure 1](https://lhbalitaan.github.io/files/CCELTER_Flyer.pdf)
 
