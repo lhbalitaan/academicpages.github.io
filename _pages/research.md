@@ -4,7 +4,6 @@ title:
 permalink: /research/
 author_profile: true
 ---
-# Active Research Projects
 ## Cetacean Ecology
 ### [Scripps Acoustic Ecology Lab](http://baumann.ucsd.edu/)
 Coming Soon!
