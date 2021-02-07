@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- [Click here to download my CV](http://lhbalitaan.github.io/files/lhbalitaan_CV.pdf).
+ [Click here to download my CV](http://lhbalitaan.github.io/files/lhbalitaan_CV.pdf)
