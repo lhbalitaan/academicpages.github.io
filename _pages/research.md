@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Active Research Projects
 ## Cetacean Ecology
-### [Scripps Acoustic Ecology Lab](https://sael.ucsd.edu)
+### [Scripps Acoustic Ecology Lab](http://baumann.ucsd.edu/)
 Coming Soon!
 
 
