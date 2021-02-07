@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: Research
 permalink: /research/
 author_profile: true
 ---
 # Active Research Projects
-
 ## Cetacean Ecology
 ### [Scripps Acoustic Ecology Lab](https://sael.ucsd.edu)
 Coming Soon!
+
+
 
 
 # Past Research Projects
